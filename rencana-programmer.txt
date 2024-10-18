@@ -1,9 +1,11 @@
 RENCANA PROGRAMMER
 
 -menjadi fullstack
+  * framework flutter
 -mudah memahami bahasa pemrograman
   *css
   *python
 -belajar laravel
 -github
 -figma
+
