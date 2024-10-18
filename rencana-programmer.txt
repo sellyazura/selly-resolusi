@@ -2,6 +2,8 @@ RENCANA PROGRAMMER
 
 -menjadi fullstack
 -mudah memahami bahasa pemrograman
+  *css
+  *python
 -belajar laravel
 -github
 -figma
